@@ -1,41 +1,43 @@
 # Agile-Workflow-Optimization
-# Remote Workflow Optimization – Agile Sprint Project
+# Remote Workflow Optimization – Agile Project (Asana & Google Suite)
 
-This demo project simulates a remote Agile sprint aimed at improving workflow efficiency and communication across a distributed team.
+This project demonstrates the application of Agile and Scrum principles using accessible collaboration tools such as Asana, Google Sheets, and Google Docs.
 
-## 🧭 Objective
-To apply Agile and Scrum principles for managing a small project focused on optimizing collaboration tools and sprint efficiency.
+## 🎯 Objective
+To optimize remote team workflow and communication by implementing Agile project management practices.
 
 ## 🧰 Tools
-- Trello (Sprint board)
-- Slack (team communication)
-- Google Docs (documentation)
-- Excel (backlog tracking)
+- **Asana** — Sprint board and task tracking  
+- **Google Sheets** — Sprint backlog and velocity tracking  
+- **Google Docs** — Retrospective and project charter  
+- **Slack** — Team communication  
 
-## ⚙️ Agile Setup
-**Framework:** Scrum  
+## ⚙️ Agile Framework
+**Methodology:** Scrum  
 **Sprint duration:** 2 weeks  
-**Roles:**
-- Scrum Master: Andrejs Verhovods  
-- Product Owner: Stakeholder representative (simulated)  
-- Development Team: 3 members (simulated tasks)
 
-## 📋 Sprint Backlog Example
-| ID | User Story | Priority | Status | Tool |
-|----|-------------|-----------|---------|------|
-| 1 | As a user, I want a shared Trello board so that team members can track progress. | High | Done | Trello |
-| 2 | As a PM, I want to integrate Slack notifications for task updates. | Medium | In Progress | Slack |
-| 3 | As a data analyst, I want automated report templates in Google Sheets. | High | To Do | Google Sheets |
+### Roles:
+- **Scrum Master:** Andrejs Verhovods  
+- **Product Owner:** Simulated stakeholder  
+- **Team Members:** 3 (simulated environment)
+
+## 📋 Sprint Backlog Example (Google Sheets)
+| ID | User Story | Priority | Status | Owner |
+|----|-------------|-----------|---------|--------|
+| 1 | As a PM, I want to track all tasks in Asana to visualize progress. | High | Done | Andrejs |
+| 2 | As a team member, I want to automate progress tracking in Google Sheets. | Medium | In Progress | Team |
+| 3 | As a stakeholder, I want weekly summaries shared via Slack. | Medium | To Do | Andrejs |
 
 ## 🏁 Sprint Outcomes
-- Improved task visibility by 30% (based on simulated metrics).
-- Reduced communication lag using Slack integration.
-- Established reusable templates for project tracking.
+- Improved visibility of remote team progress.  
+- Introduced weekly status updates in Slack.  
+- Created reusable Agile templates for task tracking and retrospectives.
 
 ## 📈 Reflection
-This project demonstrates Agile planning, sprint execution, and remote collaboration using modern tools. It highlights skills in backlog management, stakeholder communication, and workflow optimization.
+This project shows how Agile concepts can be applied using widely available, low-barrier tools (Google Suite and Asana).  
+It reflects skills in sprint planning, backlog management, stakeholder communication, and distributed collaboration.
 
 ---
 
 **Author:** Andrejs Verhovods  
-**Certificate:** Google Project Management (incl. Agile Project Management, 2025)  
+**Certification:** Google Project Management (incl. Agile Project Management), Coursera 2025
